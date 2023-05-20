@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning modern technologies
 - 💞️ I’m looking to collaborate on new web technologies
 - 📫 How to reach me zainabprogrammer1@gmail.com
+- 🌱 Currently exercising [Next Js, Tailwind Css, Firebase] 
 
 
 <!---

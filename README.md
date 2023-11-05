@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Zainab Younas
 <h2>A passionate frontend developer</h2>
-<img align="right" margin-left="12px" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="coding">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="coding">
 
 
 
